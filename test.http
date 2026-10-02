@@ -1,0 +1,5 @@
+### Test URL Shortener
+//POST http://localhost:8080/api/shorten?originalUrl=https%3A%2F%2Fgithub.com
+//GET http://localhost:8080/api/17809c
+//POST http://localhost:8080/api/shorten?originalUrl=https://github.com
+GET http://localhost:8080/050030

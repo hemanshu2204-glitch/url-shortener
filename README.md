@@ -17,6 +17,11 @@ A RESTful URL Shortener application built using Java and Spring Boot. The applic
 * Swagger/OpenAPI documentation
 * Unit testing with JUnit and Mockito
 
+## Architecture
+
+<img width="1536" height="1024" alt="41ed7f91-3d8d-49b8-9677-f92fac958538" src="https://github.com/user-attachments/assets/bfcaaa2a-abfb-4233-a4d7-8a32ca621d52" />
+
+
 ## Technologies Used
 
 * **Java**
